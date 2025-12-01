@@ -1,0 +1,10 @@
+{
+  // Visit https://aka.ms/tsconfig to read more about this file
+  "type": "module",
+  "compilerOptions": {
+    "types": [
+      "node"
+    ]
+  },
+  "extends": "@tsconfig/node22/tsconfig.json"
+}
